@@ -1,0 +1,11 @@
+streamlit
+groq
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+Pillow
+opencv-python-headless
+pdfplumber
